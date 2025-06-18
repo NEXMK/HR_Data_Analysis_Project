@@ -1,6 +1,8 @@
 # HR Analytics Dashboard Project
 
 This project showcases an interactive HR Analytics Dashboard built to provide key insights into workforce demographics and HR metrics for data-driven decision-making. The dashboards were developed using SQL for data cleaning and analysis, followed by Power BI for visualization and interactive insights. The design emphasizes clarity and accessibility.
+## Dataset Used
+- <a href="https://github.com/NEXMK/HR_Data_Analysis_Project/blob/main/hr_dataset.csv">Dataset</a>
 ## 1-Key Features:
 1. Employee Demographics Overview:
     - Gender Distribution: Breakdown by male, female, and non-conforming employees.
