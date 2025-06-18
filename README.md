@@ -38,5 +38,10 @@ This project showcases an interactive HR Analytics Dashboard built to provide ke
 ## 4-Purpose:
 The dashboard aims to help HR professionals and stakeholders quickly understand workforce composition, diversity, and retention metrics, enabling smarter HR strategy and planning.
 
+## 5-Dashboard
+![Dashboard 1 Employees](https://github.com/user-attachments/assets/38d186f0-a1fc-4368-8205-342d1f8c5042)
+![Dashboard 2 Ages](https://github.com/user-attachments/assets/9650ed43-600f-44c2-bac2-1b3edb23dc9e)
+
+
 
 
