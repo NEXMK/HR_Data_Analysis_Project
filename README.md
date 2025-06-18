@@ -2,16 +2,16 @@
 
 This project showcases an interactive HR Analytics Dashboard built to provide key insights into workforce demographics and HR metrics for data-driven decision-making. The dashboards were developed using SQL for data cleaning and analysis, followed by Power BI for visualization and interactive insights. The design emphasizes clarity and accessibility.
 ## 1-Key Features:
-	1. Employee Demographics Overview:
+1. Employee Demographics Overview:
     - Gender Distribution: Breakdown by male, female, and non-conforming employees.
     - Race Distribution: Visualization of racial diversity across the organization.
     - Age Group Analysis: Age segmentation and distribution by gender.
     - Tenure: Average employee tenure across the company.
-	2. Workforce Composition:
+2. Workforce Composition:
     - Remote vs. Headquarters: Comparison of remote vs. on-site workforce.
     - Departmental Distribution: Number of employees per department categorized by gender.
     - State-wise Breakdown: Geographic distribution of employees across key U.S. states.
-	3. HR Performance Metrics:
+3. HR Performance Metrics:
     - Turnover Rates by Department: Helps identify departments with higher attrition.
     - Hiring Trends: Historical percentage change in hiring from 2000 to 2020.
 ## 2-Tools & Technologies:
