@@ -41,6 +41,7 @@ The dashboard aims to help HR professionals and stakeholders quickly understand 
 ## 5-Dashboard
 ![Dashboard 1 Employees](https://github.com/user-attachments/assets/38d186f0-a1fc-4368-8205-342d1f8c5042)
 ![Dashboard 2 Ages](https://github.com/user-attachments/assets/9650ed43-600f-44c2-bac2-1b3edb23dc9e)
+
 ## 6-SQL Queries
 ![2_termdate problem](https://github.com/user-attachments/assets/b0f8a7c4-09fc-463d-bcb3-6cfc4ca0b745)
 ![4_termdate problem solved](https://github.com/user-attachments/assets/7e660dc4-acf3-4ad7-9133-b03171b71627)
