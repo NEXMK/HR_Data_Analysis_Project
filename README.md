@@ -3,7 +3,7 @@
 This project showcases an interactive HR Analytics Dashboard built to provide key insights into workforce demographics and HR metrics for data-driven decision-making. The dashboards were developed using SQL for data cleaning and analysis, followed by Power BI for visualization and interactive insights. The design emphasizes clarity and accessibility.
 ## Dataset Used
 - <a href="https://github.com/NEXMK/HR_Data_Analysis_Project/blob/main/hr_dataset.csv">Dataset</a>
-## 1-Key Features:
+## 1-Key Features
 1. Employee Demographics Overview:
     - Gender Distribution: Breakdown by male, female, and non-conforming employees.
     - Race Distribution: Visualization of racial diversity across the organization.
@@ -16,7 +16,7 @@ This project showcases an interactive HR Analytics Dashboard built to provide ke
 3. HR Performance Metrics:
     - Turnover Rates by Department: Helps identify departments with higher attrition.
     - Hiring Trends: Historical percentage change in hiring from 2000 to 2020.
-## 2-Tools & Technologies:
+## 2-Tools & Technologies
   - SQL for data cleaning and analysis
   - Power BI for data modeling and visualization
   - DAX for calculations and KPIs
@@ -35,7 +35,7 @@ This project showcases an interactive HR Analytics Dashboard built to provide ke
  - How are the job titles distributed in the company?
  - How have employees hire counts varied over time?
 
-## 4-Purpose:
+## 4-Purpose
 The dashboard aims to help HR professionals and stakeholders quickly understand workforce composition, diversity, and retention metrics, enabling smarter HR strategy and planning.
 
 ## 5-Dashboard
